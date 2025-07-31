@@ -1,0 +1,35 @@
+ID   Category     ItemName                Price
+1    Stitched     Kurta_1pc               1200
+2    Stitched     Kurta_2pc               1600
+3    Stitched     Kurta_3pc               2000
+4    Stitched     Frock                   1800
+5    Stitched     Maxi                    2200
+6    Stitched     Shirt_Trouser          1950
+7    Stitched     Long_Shirt             1700
+8    Stitched     Short_Shirt            1500
+
+9    Unstitched   Lawn_1Pc               800
+10   Unstitched   Lawn_2Pc               1100
+11   Unstitched   Lawn_3Pc               1400
+12   Unstitched   Cotton_2Piece          1200
+13   Unstitched   Cotton_3Piece          1500
+14   Unstitched   Khaddar_3Piece         1600
+15   Unstitched   Linen_2Piece           1300
+16   Unstitched   Cambric_3Piece         1550
+
+17   Luxury       Bridal_Lehenga         8500
+18   Luxury       Embroidered_Maxis      7200
+19   Luxury       Fancy_Frocks           6800
+20   Luxury       Saree                  7000
+21   Luxury       Designer_3Piece        7500
+22   Luxury       Party_Wear             7900
+23   Luxury       Formal_Shirt           6200
+
+24   Formals      Formal_2Piece          2500
+25   Formals      Formal_3Piece          3200
+26   Formals      Gown                   4800
+27   Formals      Saree                  4300
+28   Formals      Frock                  4000
+29   Formals      Long_Shirt             3700
+30   Formals      Embroidered_Kurta      3600
+31   Formals      Angrakha_frock         4100
